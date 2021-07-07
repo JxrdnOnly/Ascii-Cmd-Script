@@ -1,5 +1,3 @@
-# Ascii-Cmd-Script
-Simple &amp; Basic Cmd Script (node.js)
 const Discord = require("discord.js");
 const { MessageEmbed } = require("discord.js");
 const { Color } = require("../../config.js");
